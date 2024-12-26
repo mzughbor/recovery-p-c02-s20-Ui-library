@@ -10,5 +10,5 @@ This Ui is designed to help you apply tooltip and tabs with dropdown menu.
 - Tooltips
 
 <p>
-# <a href="https://mzughbor.github.io/recovery-p-c02-s20-Ui-library/index.html"> Show-up - index.html</a>
+# <a href="https://mzughbor.github.io/recovery-p-c02-s20-Ui-library/dist/index.html"> Show-up - index.html</a>
 </p>
